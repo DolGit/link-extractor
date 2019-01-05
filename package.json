@@ -1,6 +1,6 @@
 {
   "name": "@dolnpm/link-extractor",
-  "version": "0.1.0-development",
+  "version": "0.1.1-development",
   "description": "Reads a statically created link and extract its from the dom. This was built for links that are configured via a DSL on the backend using frameworks like Ruby-on-Rails and then ported to the frontend. This library allows you to load dynamic links via ids rather than hardcoding them.",
   "main": "lib/index.js",
   "module": "es/index.js",
